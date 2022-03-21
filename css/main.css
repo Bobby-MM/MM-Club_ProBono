@@ -1,0 +1,118 @@
+/* ! Styling on HTML */
+
+html {scroll-behavior: smooth;}
+
+.illustration_member {margin-top:50px;}
+
+.container-part-1 {height:100% !important;}
+
+.container-header .buttons-header .container-languages {text-decoration:underline;}
+
+a:hover {text-decoration:none !important;}
+
+.container-header .content-header {width:70% !important;}
+
+.container-header .buttons-header {width:30% !important;}
+
+.event1 .button-event, .event2 .button-event, .event3 .button-event, .event4 .button-event {
+    padding: 0;
+}
+
+.event1 .button-event a, .event2 .button-event a, .event3 .button-event a, .event4 .button-event a {color:#333333; padding:15px;}
+
+.event1 .button-event a:hover, .event2 .button-event a:hover, .event3 .button-event a:hover, .event4 .button-event a:hover {color:#FFFFFF; text-decoration:none;}
+
+.event1 .button-event:hover, .event2 .button-event:hover, .event3 .button-event:hover, .event4 .button-event:hover {
+    background-color: #333333;
+    transition: 500ms;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.container-header {
+    padding:7px;
+}
+
+@media (max-width: 575.98px){
+.container-header .logo-pj {
+    width: 70% !important;
+    height: initial !important;
+    margin-left: 10px !important;
+}
+
+.title {
+    text-align: left;
+}
+
+.part-3 .title {
+    font-size: 50px !important;
+    line-height: 50px !important;
+}
+
+
+.container-header .buttons-header {
+    padding-top:5px;
+}
+
+.container-header .button-regular {
+    font-size: 9px !important;
+    height: 32px;
+    min-width: none !important;
+    display: block !important;
+    margin-left: -24px;
+}
+
+.container-part-1 .container-img-welcome {
+    justify-content: center;
+    margin: 0px auto;
+    border-top: 1px solid #333;
+}
+
+.numbers .row {display:contents !important;}
+
+.event1 .button-event, .event2 .button-event, .event3 .button-event, .event4 .button-event {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    color: #333;
+    padding:10px;
+    font-size:13px;
+}
+
+.container-part-3 .container-event:last-child {
+    margin: 0 auto 23px;
+}
+    
+}
+
+@media (min-width: 575.98px){
+    .button-regular.header {
+        min-width:102px !important;
+    }
+}
+
+.container-part-3 .container-event {
+    cursor:auto;
+}
+
+.countup .countup-item, .countup2 .countup-item2, .countup3 .countup-item3, .countup4 .countup-item4 {
+    line-height:1;
+}
+
+.container-part-3 .container-event .text-event {
+    margin-left:30px;
+    margin-bottom:0 !important;
+}
+
+.numbers .title {
+    font-size:75px;
+    margin-top:0;
+    text-align:center !important;
+}
+
+.container-part-3 .container-event .button-toggle {
+    cursor:pointer;
+}
+
+/* ! End Styling on HTML */
