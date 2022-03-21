@@ -69,10 +69,10 @@ The following tools were used in this project:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/BBDgtlMM/mm-ecosystem_landing
+$ git clone https://github.com/BBDgtlMM/MM-Club_ProBono
 
 # Access
-$ cd mm-ecosystem_landing
+$ cd mm-club_probono
 
 # Install dependencies
 $ yarn
