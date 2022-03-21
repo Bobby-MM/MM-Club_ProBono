@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <a href="https://go.club.paperjam.lu/pro_bono/fr">Demo</a>
+  <a href="https://go.club.paperjam.lu/pro_bono/fr" target="_blank">Demo</a>
 </div>
 
 <h1 align="center">Paperjam + Delano Club 5% Pro-Bono</h1>
