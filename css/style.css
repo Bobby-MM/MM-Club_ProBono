@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap");
 
-@font-face {
+/* @font-face {
     font-family: caponiSlab;
     src: url("https://maison-moderne-pardot.s3.eu-central-1.amazonaws.com/fonts/CaponiSlab/CaponiSlab-Regular.otf");
 }
@@ -8,25 +8,30 @@
 @font-face {
     font-family: ibmPlexSansLight;
     src: url("https://maison-moderne-pardot.s3.eu-central-1.amazonaws.com/fonts/IBMPlexSans/IBMPlexSans-Thin.ttf");
+} */
+
+@font-face {
+    font-family: ibmPlexSansBold;
+    src: url("https://maison-moderne-pardot.s3.eu-central-1.amazonaws.com/Paperjam+%2B+Delano+Club+-+Pro+Bono/assets/fonts/IBMPlexSans-Bold.ttf");
 }
 
 @font-face {
     font-family: ibmPlexSansRegular;
-    src: url("https://maison-moderne-pardot.s3.eu-central-1.amazonaws.com/fonts/IBMPlexSans/IBMPlexSans-Regular.ttf");
+    src: url("https://maison-moderne-pardot.s3.eu-central-1.amazonaws.com/Paperjam+%2B+Delano+Club+-+Pro+Bono/assets/fonts/IBMPlexSans-Regular.ttf");
 }
 
 @font-face {
     font-family: ibmPlexSansMedium;
-    src: url("https://maison-moderne-pardot.s3.eu-central-1.amazonaws.com/fonts/IBMPlexSans/IBMPlexSans-Medium.ttf");
+    src: url("https://maison-moderne-pardot.s3.eu-central-1.amazonaws.com/Paperjam+%2B+Delano+Club+-+Pro+Bono/assets/fonts/IBMPlexSans-Medium.ttf");
 }
 
 @font-face {
     font-family: plaakBold;
-    src: url("https://maison-moderne-pardot.s3.eu-central-1.amazonaws.com/fonts/PlaakPradel/Plaak43-Pradel-Bold-205TF.otf");
+    src: url("https://maison-moderne-pardot.s3.eu-central-1.amazonaws.com/Paperjam+%2B+Delano+Club+-+Pro+Bono/assets/fonts/Plaak%2B-%2B43-Pradel-Bold-205TF.otf");
 }
 
 /* ! Temporary fix font loads - S3 not working */
-@font-face {
+/* @font-face {
     font-family: ibmPlexSansRegular;
     src: url(/assets/fonts/IBMPlexSans-Regular.ttf);
 }
@@ -44,7 +49,7 @@
 @font-face {
     font-family: plaakBold;
     src: url(/assets/fonts/Plaak+-+43-Pradel-Bold-205TF.otf);
-}
+} */
 
 .mR10 {
     margin-right: 10px;
