@@ -770,7 +770,7 @@
 
     .container-part-3 {
         height: 100%;
-        grid-gap: 50px;
+        grid-gap: 20px;
     }
 
     .club-header {
@@ -814,9 +814,9 @@
         line-height: 29px;
     }
 
-    .quota-text {
+    /* .quota-text {
         margin-top: 50px;
-    }
+    } */
 
     .part-4 {
         margin: 0;
