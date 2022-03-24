@@ -799,10 +799,18 @@
         width: 100%;
     }
 
+    .illustration_member2 img {
+        top: -50%;
+    }
+
     .club-cat-grid {
         grid-template-columns: 1fr;
         grid-template-rows: auto;
         grid-auto-rows: auto;
+    }
+
+    .container-part-3 {
+        grid-gap: 0;
     }
 
     .part-2 {
@@ -822,6 +830,14 @@
         margin: 0;
         padding: 50px 0;
         height: 100%;
+    }
+
+    .home-icon {
+        display: none;
+    }
+
+    .club-macbook {
+        margin-bottom: 50px;
     }
 }
 
